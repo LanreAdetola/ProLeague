@@ -1,0 +1,5 @@
+## 🔁 Resume Prompt (DP-600 Fabric Project)
+
+To continue this project later, use the following prompt:
+
+> "Let's continue building my Microsoft Fabric project for the DP-600 exam. I’ve uploaded Genk match data for the 2023–24 and 2024–25 seasons (`season_23_24.csv` and `season_24_25.csv`) and already created a step-by-step project outline. We've ingested and cleaned the data and are working toward modeling and visualizing it using Power BI connected to a Lakehouse. Pick up from where we left off and guide me step-by-step."
