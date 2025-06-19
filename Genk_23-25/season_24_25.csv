@@ -1,4 +1,4 @@
-Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp_Formation,Referee,Match Report,Notes,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,PK,PKatt
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp_Formation,Referee,Match_Report,Notes,Sh,SoT,SoT_Per,G_Sh,G_SoT,Dist,PK,PKatt
 2024-07-28,13:30,Pro League A,Matchweek 1,Sun,Home,D,0.0,0.0,Standard Liège,76.0,18471.0,Mujaid Sadick,3-4-3,5-4-1,,Match Report,,21,3,14.3,0.0,0.0,,0,0
 2024-08-03,18:15,Pro League A,Matchweek 2,Sat,Away,L,1.0,3.0,OH Leuven,64.0,7418.0,Mujaid Sadick,3-4-3,3-4-3,,Match Report,,18,7,38.9,0.06,0.14,,0,0
 2024-08-11,13:30,Pro League A,Matchweek 3,Sun,Home,W,3.0,2.0,Club Brugge,54.0,18542.0,Mujaid Sadick,3-4-3,4-2-3-1,,Match Report,,14,7,50.0,0.14,0.29,,1,1
