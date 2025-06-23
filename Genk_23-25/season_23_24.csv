@@ -1,4 +1,4 @@
-Unnamed: 0,date,time,comp,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,opp formation,referee,match report,notes,sh,sot,sot%,g/sh,g/sot,dist,pk,pkatt,season,team,xg,xga
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp_Formation,Referee,Match_Report,Notes,Sh,SoT,SoT_Per,G_Sh,G_SoT,Dist,PK,PKatt
 1,2023-07-29,20:45,Pro League A,Matchweek 1,Sat,Away,W,4.0,0.0,RWD Molenbeek,63.0,6000.0,Bryan Heynen,4-2-3-1,4-3-3,Wesli De Cremer,Match Report,,28.0,10.0,35.7,0.11,0.3,,1,1,2023,Genk,,
 3,2023-08-05,16:00,Pro League A,Matchweek 2,Sat,Home,L,0.0,1.0,Eupen,74.0,14230.0,Patrik Hrošovský,4-2-3-1,5-3-2,Wim Smet,Match Report,,28.0,3.0,10.7,0.0,0.0,,0,0,2023,Genk,,
 5,2023-08-13,16:00,Pro League A,Matchweek 3,Sun,Away,W,1.0,0.0,Cercle Brugge,58.0,3976.0,Carlos Cuesta,4-3-3,3-4-1-2,Bert Put,Match Report,,10.0,3.0,30.0,0.0,0.0,,0,0,2023,Genk,,
